@@ -219,7 +219,7 @@ function App() {
 
       <ApolloProvider client={client}>
         <div>
-          <h2>My first Apollo app 🚀</h2>
+          <h2>OI</h2>
         </div>
       </ApolloProvider>
     </div>
